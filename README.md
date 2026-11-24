@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="marinetraffic-api" />
+    <img src="https://github.com/user-attachments/assets/52cfcd35-f37a-423a-99d5-ade334558145" alt="marinetraffic-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/marinetraffic-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/marinetraffic-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/marinetraffic-api.svg)](LICENSE)
